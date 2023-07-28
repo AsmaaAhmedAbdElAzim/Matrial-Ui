@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Matrial-Ui/static/css/main.105a449a.css",
+    "main.js": "/Matrial-Ui/static/js/main.fbffa451.js",
+    "static/js/787.e4503dfa.chunk.js": "/Matrial-Ui/static/js/787.e4503dfa.chunk.js",
+    "index.html": "/Matrial-Ui/index.html",
+    "main.105a449a.css.map": "/Matrial-Ui/static/css/main.105a449a.css.map",
+    "main.fbffa451.js.map": "/Matrial-Ui/static/js/main.fbffa451.js.map",
+    "787.e4503dfa.chunk.js.map": "/Matrial-Ui/static/js/787.e4503dfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.105a449a.css",
+    "static/js/main.fbffa451.js"
+  ]
+}
